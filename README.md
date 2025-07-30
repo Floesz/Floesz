@@ -19,10 +19,11 @@ Tenho experiência principalmente com **Spring Boot** e foco em aplicações ori
 
 ### 📚 Outras ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=postman,mongodb,mysql,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,mongodb,mysql,git)](https://skillicons.dev)
 
 ---
 
 ### 🌐 Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=whi)]()
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/guilhermefloes/)
+
