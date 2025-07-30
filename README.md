@@ -5,7 +5,25 @@ Tenho experiência principalmente com **Spring Boot** e foco em aplicações ori
 
 ---
 
-### 🚀 Tecnologias
+### 📚 Linguagens
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,js)](https://skillicons.dev)
+
+---
+
+### 📚 Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=spring,hibernate)](https://skillicons.dev)
+
+---
+
+### 📚 Outras ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=postman,mongodb,mysql,git,docker)](https://skillicons.dev)
+
+---
+
+### 🚀 Tecnologias em destaque
 
 ![Java](https://img.shields.io/badge/Java-%23007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -19,17 +37,4 @@ Tenho experiência principalmente com **Spring Boot** e foco em aplicações ori
 
 ### 🌐 Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermefloes/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/floess)
-
----
-
-### 🧠 Conhecimentos
-
-- **Linguagens:** Java, Python  
-- **Frameworks:** Spring Boot, Hibernate  
-- **Banco de Dados:** MySQL, MongoDB  
-- **Ferramentas:** Postman
----
-
-📫 Entre em contato comigo pelas redes sociais acima!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=whi)]()
